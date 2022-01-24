@@ -6,7 +6,7 @@ Lista de tarefas em ReactJS e Typescript
 <hr/>
 
 ## Como rodar o projeto:
-O projeto foi criado com VITE, portanto digite em seu terminal:
+O projeto foi criado com VITE, portanto depois de clonar o repositório digite em seu terminal:
 
 #### npm install 
 #### npm run dev
